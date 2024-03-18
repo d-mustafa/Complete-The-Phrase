@@ -1,0 +1,25 @@
+html {
+  background-image: white;
+}
+
+body {
+  width: 600px;
+  text-align: left;
+  margin: 0px auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+p {
+  font-size: 19px;
+}
+
+button {
+  margin: 7px;
+  padding: 10px;
+  font-size: 15px;
+  background-image: linear-gradient(white, grey);
+}
